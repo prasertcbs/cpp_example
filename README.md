@@ -1,3 +1,3 @@
 # C++ examples
 
-## help sharing C++ examples by topics
+## help sharing C++ examples by topics :-)
