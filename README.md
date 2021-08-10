@@ -1,4 +1,4 @@
 # C++ examples
 
-## help sharing C++ examples by topics :-)
-test
+## if examples
+please contribute :-)
